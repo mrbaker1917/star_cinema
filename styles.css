@@ -14,18 +14,21 @@ body {
       display: flex;
       flex-direction: column;
       align-items: center;
-      justify-content: center;
+      justify-content: flex-start;
     }
 
-    header {
+    header, footer {
       background-color: #333;
       color: white;
       padding: 10px;
       display: flex;
       align-items: center;
       justify-content: space-around;
+      border-radius: 5px;
+      margin-top: 30px;
     }
-    ul {
+    
+    nav > ul {
       list-style: none;
       padding: 10;
       margin: 10;
@@ -34,10 +37,32 @@ body {
       justify-content: center;
     }
 
-    li {
+    nav > ul > li {
       margin: 0 10px;
       background-color: whitesmoke;
       padding: 10px;
       border-radius: 5px;
       color: black;
+    }
+
+    nav > ul > li:hover {
+      background-color: #ddd;
+    }
+
+    nav > ul > li > a {
+      text-decoration: none;
+      color: black;
+    }
+
+    section {
+      background-color: #333;
+      color: white;
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-around;
+      border-radius: 5px;
+      margin: 20px;
+      width: 100%;
     }
