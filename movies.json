@@ -3,7 +3,7 @@
         {
             "title": "The Phoenician Scheme",
             "genre": "Action/Adventure",
-            "image": "./phoenician_scheme.jpg",
+            "image": "./images/phoenician_scheme.jpg",
             "description": "Wes Anderson's latest film is a visually stunning masterpiece.",
             "rating": 4.5,
             "releaseYear": 2025,
@@ -15,13 +15,13 @@
             ]
         },
         {
-            "title": "Movie 2",
+            "title": "Materialists",
             "genre": "Comedy",
-            "image": "./movie2.jpg",
+            "image": "./images/materialists.jpg",
             "description": "A hilarious comedy that will make you laugh out loud.",
             "rating": 4.0,
-            "releaseYear": 2022,
-            "trailerUrl": "https://example.com/trailer2.mp4",
+            "releaseYear": 2025,
+            "trailerUrl": "https://www.youtube.com/watch?v=4A_kmjtsJ7c",
             "showtimes": [
                 "2023-10-02T14:00:00",
                 "2023-10-02T17:00:00",
@@ -29,13 +29,13 @@
             ]       
         },
         {
-            "title": "Movie 3",
-            "genre": "Drama",
-            "image": "./movie3.jpg",
-            "description": "A poignant drama that explores the complexities of human relationships.",
+            "title": "How to train your dragon",
+            "genre": "Fantasy",
+            "image": "./images/dragon.jpg",
+            "description": "Let the adventure begin again in live action!",
             "rating": 4.8,
-            "releaseYear": 2023,
-            "trailerUrl": "https://example.com/trailer3.mp4",
+            "releaseYear": 2025,
+            "trailerUrl": "https://www.youtube.com/watch?v=22w7z_lT6YM",
             "showtimes": [
                 "2023-10-03T14:00:00",
                 "2023-10-03T17:00:00",

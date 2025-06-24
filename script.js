@@ -10,12 +10,12 @@ document.addEventListener('DOMContentLoaded', () => {
         const li = document.createElement('li');
         li.innerHTML = `
           <img src="${movie.image}" alt="${movie.title}" />
-          <h3>${movie.title}</h3>
+          <h2>${movie.title}</h2>
           <p>${movie.description}</p>
           <p>Rating: ${movie.rating} / 5</p>
           <p>Release Year: ${movie.releaseYear}</p>
           <a href="${movie.trailerUrl}" target="_blank">Watch Trailer</a>
-          <p>Showtimes: ${movie.showtimes.join('/n')}</p>
+          <p>Showtimes:<br>${movie.showtimes.map(time => `${time}`).join('<br>')}</p>
         `;
         list.appendChild(li);
       });
