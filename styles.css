@@ -90,3 +90,54 @@ body {
       margin: 5px;
       color: white;
     }
+
+    .movie-list {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-around;
+      padding: 10px;
+      margin: 0 auto;
+      max-width: 1200px;
+      width: 100%;
+
+    }
+
+    .movie-list > li {
+      background-color: #444;
+      color: white;
+      padding: 10px;
+      border-radius: 5px;
+      text-align: center;
+      list-style: none;
+      transition: transform 0.2s;
+      margin: 20px;
+    }
+    .movie-list > li > img {
+      width: 100%;
+      height: auto;
+      border-radius: 5px;
+    }
+
+    .movie-list > li:hover {
+      transform: scale(1.05);
+    }
+
+    .movie-list > li > a {
+      text-decoration: none;
+      color: black;
+      background-color: whitesmoke;
+      padding: 5px;
+      border-radius: 5px;
+      margin: 20px;
+    }
+
+    .movie-list > li > a:hover {
+      background-color: gray;
+      color: white;
+    }
+
+    .movie-list > li > p {
+      margin: 10px 0;
+      font-size: 1.2em;
+    }
