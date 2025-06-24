@@ -9,9 +9,9 @@
             "releaseYear": 2025,
             "trailerUrl": "https://www.youtube.com/watch?v=GEuMnPl2WI4",
             "showtimes": [
-                "2023-10-01T14:00:00",
-                "2023-10-01T17:00:00",
-                "2023-10-01T20:00:00"
+                "Tuesday, June 24, 2025, 2:20 PM & 7:15 PM",
+                "Wednesday, June 25, 2025, 2:20 PM & 7:15 PM",
+                "Thursday, June 24, 2025, 2:20 PM & 7:15 PM"
             ]
         },
         {
@@ -23,10 +23,10 @@
             "releaseYear": 2025,
             "trailerUrl": "https://www.youtube.com/watch?v=4A_kmjtsJ7c",
             "showtimes": [
-                "2023-10-02T14:00:00",
-                "2023-10-02T17:00:00",
-                "2023-10-02T20:00:00"
-            ]       
+                "Tuesday, June 24, 2025, 1:45 PM & 7:00 PM",
+                "Wednesday, June 25, 2025, 1:45 PM & 7:00 PM",
+                "Thursday, June 24, 2025, 1:45 PM & 7:00 PM"
+            ]      
         },
         {
             "title": "How to train your dragon",
@@ -37,9 +37,9 @@
             "releaseYear": 2025,
             "trailerUrl": "https://www.youtube.com/watch?v=22w7z_lT6YM",
             "showtimes": [
-                "2023-10-03T14:00:00",
-                "2023-10-03T17:00:00",
-                "2023-10-03T20:00:00"
+                "Tuesday, June 24, 2025, 2:00 PM & 6:45 PM",
+                "Wednesday, June 25, 2025, 2:00 PM & 6:45 PM",
+                "Thursday, June 24, 2025, 2:00 PM & 6:45 PM"
             ]
         }
     ]

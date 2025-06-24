@@ -12,10 +12,8 @@ document.addEventListener('DOMContentLoaded', () => {
           <img src="${movie.image}" alt="${movie.title}" />
           <h2>${movie.title}</h2>
           <p>${movie.description}</p>
-          <p>Rating: ${movie.rating} / 5</p>
-          <p>Release Year: ${movie.releaseYear}</p>
           <a href="${movie.trailerUrl}" target="_blank">Watch Trailer</a>
-          <p>Showtimes:<br>${movie.showtimes.map(time => `${time}`).join('<br>')}</p>
+          <h6>Showtimes:<br>${movie.showtimes.map(time => `${time}`).join('<br>')}</h6>
         `;
         list.appendChild(li);
       });
