@@ -18,7 +18,8 @@ body {
     }
 
     header {
-      background-color: #333;
+      background-color: lightgray;
+      width: 90%;
       color: white;
       padding: 10px;
       display: flex;
@@ -26,12 +27,34 @@ body {
       flex-direction: column;
       justify-content: space-between;
       border-radius: 5px;
-      margin-top: 30px;
+      margin-top: 20px;
+      background: url('./images/Starfish-icon.png');
+      background-position:80% 30%;
+      background-size:100px;
+      background-repeat: no-repeat;
+    }
+    header > h1 {
+      text-shadow:
+        2px 2px 4px #222,
+        4px 4px 8px #888,
+        0 1px 0 #fff;
+      letter-spacing: 2px;
+      position: relative;
+      font-size: 5em;
+      margin-left: 0.3em;
+      vertical-align: middle;
+      filter: drop-shadow(1px 1px 2px #222);
+      margin: 0;
     }
 
-    header > h1 {
-      font-size: 5em;
-      margin: 0;
+    header > h1 > span:hover {
+      color: goldenrod;
+      font-weight: 900;
+      text-shadow:
+        2px 2px 4px #222,
+        4px 4px 8px #888,
+        0 1px 0 #fff;
+      transition: color 0.1s ease-in-out;
     }
 
     footer {
