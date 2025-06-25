@@ -177,6 +177,30 @@ body {
       font-size: 1.2em;
     }
 
+    .movie-list > li > p {
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      max-width: 40ch;
+      font-size: small;
+
+      }
+
+      .movie-list > li > p:hover {
+        white-space: normal;
+        background: rgba(0,0,0,0.97);
+        overflow: visible;
+        z-index: 2;
+        position: relative;
+        width: 100%;
+        padding: 5px 10px;
+        border-radius: 5px;
+        margin: auto;
+        transition-property: all;
+        transition-duration: 1s;
+        transition-timing-function: ease-in-out;
+    }
+
     h6 {
       font-size: 0.8em;
       margin-top: 10px;
