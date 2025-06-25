@@ -87,7 +87,7 @@ body {
     }
 
     nav > ul > li:hover {
-      background-color: #ddd;
+      background-color: goldenrod;
     }
 
     nav > ul > li > a {
