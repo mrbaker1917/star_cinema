@@ -3,6 +3,15 @@
   box-sizing: border-box;
 }
 
+section > p >a {
+  text-decoration: none;
+  color: inherit;
+}
+section > p > a:hover {
+  color: goldenrod;
+  font-weight: 500;
+}
+
 body {
       font-family: 'Jost', sans-serif;
       margin:0;
@@ -54,7 +63,7 @@ body {
         2px 2px 4px #222,
         4px 4px 8px #888,
         0 1px 0 #fff;
-      transition: color 0.1s ease-in-out;
+      transition: color 0.2s ease-in-out;
     }
 
     footer {
@@ -88,6 +97,8 @@ body {
 
     nav > ul > li:hover {
       background-color: goldenrod;
+      font-weight: 500;
+      transition: font-weight 0.2s ease-in-out;
     }
 
     nav > ul > li > a {
