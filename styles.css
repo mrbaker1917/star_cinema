@@ -36,7 +36,7 @@ body {
       flex-direction: column;
       justify-content: space-between;
       border-radius: 5px;
-      margin-top: 20px;
+      margin-top: 10px;
       background: url('./images/Starfish-icon.png');
       background-position:80% 30%;
       background-size:100px;
