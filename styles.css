@@ -127,7 +127,9 @@ body {
     }
 
     .movie-list {
-      display: flex;
+      display: grid;
+      /* grid-template-columns: repeat(3, 1fr); */
+      gap: 20px;
       flex-direction: row;
       align-items: center;
       justify-content: space-around;
@@ -135,7 +137,8 @@ body {
       margin: 0 auto;
       max-width: 1200px;
       width: 100%;
-
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      justify-content: center;
     }
 
     .movie-list > li {
@@ -147,6 +150,7 @@ body {
       list-style: none;
       transition: transform 0.2s;
       margin: 20px;
+      height: 100%;
     }
     .movie-list > li > img {
       width: 100%;
