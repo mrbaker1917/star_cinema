@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
         li.innerHTML = `
           <img src="${movie.image}" alt="${movie.title}" />
           <h2>${movie.title}</h2>
-          <a href="${movie.trailerUrl}" target="_blank">Watch Trailer</a>
+          <a href="${movie.trailerUrl}" target="_blank" title="Opens in new tab.">Watch the Trailer</a>
           <p>${movie.description}</p>
           <h6>Showtimes:<br>${movie.showtimes.map(time => `${time}`).join('<br>')}</h6>
         `;
