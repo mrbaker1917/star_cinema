@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
           <h2>${movie.title}</h2>
           <a href="${movie.trailerUrl}" target="_blank" title="Opens in new tab.">Watch the Trailer</a>
           <p>${movie.description}</p>
-          <h6>Showtimes:<br>${movie.showtimes.map(time => `${time}`).join('<br>')}</h6>
+          <h3>Showtimes:</h3><h6>${movie.showtimes.map(time => `${time}`).join('<br>')}</h6>
         `;
         list.appendChild(li);
       });

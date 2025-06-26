@@ -193,19 +193,19 @@ body {
       .movie-list > li > p:hover {
         white-space: normal;
         background: rgba(0,0,0,0.97);
-        overflow: visible;
+        overflow:visible;
         z-index: 2;
         position: relative;
         width: 100%;
         padding: 5px 10px;
         border-radius: 5px;
         margin: auto;
-        transition-property: all;
+        transition-property:all;
         transition-duration: 1s;
         transition-timing-function: ease-in-out;
     }
 
     h6 {
       font-size: 0.8em;
-      margin-top: 10px;
+      margin-top: 0px;
     }
