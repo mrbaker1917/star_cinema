@@ -126,6 +126,14 @@ body {
       color: white;
     }
 
+    h2 {
+      font-size: 1.5em;
+      margin: 10px 0;
+      text-align: center;
+      color: goldenrod;
+      text-shadow: 1px 1px 2px #222;
+    }
+
     .movie-list {
       display: grid;
       /* grid-template-columns: repeat(3, 1fr); */
@@ -195,6 +203,7 @@ body {
       }
 
       .movie-list > li > p:hover {
+        cursor:progress;
         white-space: normal;
         background: rgba(0,0,0,0.97);
         overflow:visible;
@@ -212,4 +221,18 @@ body {
     h6 {
       font-size: 0.8em;
       margin-top: 0px;
+    }
+
+    #ticket-rentals {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      gap: 10px;
+      align-items: stretch;
+    }
+    #ticket-rentals > article {
+      width: 100%;
+      background-color: #444;
+      padding: 20px;
+      border-radius: 5px;
     }

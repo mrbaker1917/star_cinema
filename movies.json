@@ -9,12 +9,10 @@
             "releaseYear": 2025,
             "trailerUrl": "https://www.youtube.com/watch?v=GEuMnPl2WI4",
             "showtimes": [
-                "Tuesday, June 24, 2025, 2:20 PM & 7:15 PM",
-                "Wednesday, June 25, 2025, 2:20 PM & 7:15 PM",
-                "Thursday, June 24, 2025, 2:20 PM & 7:15 PM",
-                "Friday, June 27, 2025, 2:30 PM",
-                "Monday, June 30, 2025, 7:30 PM",
-                "Tuesday, July 1, 2025, 2:30 PM & 7:30 PM"
+                "Thursday, June 24 @ 2:20 & 7:15 PM",
+                "Friday, June 27 @ 2:30 PM",
+                "Monday, June 30 @ 7:30 PM",
+                "Tuesday, July 1 @ 2:30 & 7:30 PM"
             ]
         },
         {
@@ -26,12 +24,9 @@
             "releaseYear": 2025,
             "trailerUrl": "https://www.youtube.com/watch?v=4A_kmjtsJ7c",
             "showtimes": [
-                "Tuesday, June 24, 2025, 1:45 PM & 7:00 PM",
-                "Wednesday, June 25, 2025, 1:45 PM & 7:00 PM",
-                "Thursday, June 24, 2025, 1:45 PM & 7:00 PM",
-                "Friday, June 27, 2025 7:30 PM",
-                "Saturday, June 28, 2025, 2:30 PM",
-                "Sunday, June 29, 2025, 2:30 PM"
+                "Friday, June 27 @ 7:30 PM",
+                "Saturday, June 28 @ 2:30 PM",
+                "Sunday, June 29 @ 2:30 PM"
             ]      
         },
         {
@@ -43,16 +38,13 @@
             "releaseYear": 2025,
             "trailerUrl": "https://www.youtube.com/watch?v=22w7z_lT6YM",
             "showtimes": [
-                "Tuesday, June 24, 2025, 2:00 PM & 6:45 PM",
-                "Wednesday, June 25, 2025, 2:00 PM & 6:45 PM",
-                "Thursday, June 24, 2025, 2:00 PM & 6:45 PM",
-                "Friday, June 27, 2:10 PM & 6:45 PM",
-                "Saturday, June 28, 2:10 PM & 6:45 PM",
-                "Sunday, June 29, 2025, 2:10 PM & 6:45 PM",
-                "Monday, June 30, 2025, 6:45 PM",
-                "Tuesday, July 1, 2025, 2:10 PM & 6:45 PM",
-                "Wednesday, July 2, 2025, 2:10 PM & 6:45 PM",
-                "Thursday, July 3, 2025, 2:10 PM & 6:45 PM"
+                "Friday, June 27 @ 2:10 & 6:45 PM",
+                "Saturday, June 28 @ 2:10 & 6:45 PM",
+                "Sunday, June 29 @ 2:10 & 6:45 PM",
+                "Monday, June 30 @ 6:45 PM",
+                "Tuesday, July 1 @ 2:10 & 6:45 PM",
+                "Wednesday, July 2 @ 2:10 & 6:45 PM",
+                "Thursday, July 3 @ 2:10 & 6:45 PM"
             ]
         },
         {
@@ -63,13 +55,13 @@
             "releaseYear": 2025,
             "trailerUrl": "https://www.youtube.com/watch?v=8yh9BPUBbbQ",
             "showtimes": [
-                "FRI, JUN 27 @ 1:45 & 7:10",
-                "SAT, JUN 28 @ 1:45 & 7:10",
-                "SUN, JUN 29 @ 1:45 & 7:10",
-                "MON, JUN 30 @ 1:45 & 7:10",
-                "TUES, JUL 1 @ 1:45 & 7:10",
-                "WED, JUL 2 @ 1:45 & 7:10",
-                "THU, JUL 3 @ 1:45 & 7:10"
+                "FRI, JUN 27 @ 1:45 & 7:10 PM",
+                "SAT, JUN 28 @ 1:45 & 7:10 PM",
+                "SUN, JUN 29 @ 1:45 & 7:10 PM",
+                "MON, JUN 30 @ 1:45 & 7:10 PM",
+                "TUES, JUL 1 @ 1:45 & 7:10 PM",
+                "WED, JUL 2 @ 1:45 & 7:10 PM",
+                "THU, JUL 3 @ 1:45 & 7:10 PM"
             ]
         },
         {
@@ -81,8 +73,8 @@
             "releaseYear": 2025,
             "trailerUrl": "https://www.youtube.com/watch?v=jan5CFWs9ic",
             "showtimes": [
-                "Wednesday, July 2, 2025, 2:30 PM & 7:30 PM",
-                "Thursday, July 3, 2025, 2:30 PM & 7:30 PM"
+                "Wednesday, July 2 @ 2:30 & 7:30 PM",
+                "Thursday, July 3 @ 2:30 & 7:30 PM"
             ]
         }
     ]

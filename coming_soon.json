@@ -1,0 +1,44 @@
+{
+    "movies": [
+        {
+            "title": "The Life of Chuck",
+            "genre": "Fantasy-Drama",
+            "image": "./images/life_chuck.jpg",
+            "description": "Written and directed by Mike Flanagan, based on the novella of the same name by Stephen King, published in his 2020 compilation If It Bleeds. The film stars Tom Hiddleston, Chiwetel Ejiofor, Karen Gillan, Mia Sara, Carl Lumbly, Benjamin Pajak, Jacob Tremblay, and Mark Hamill, with narration by Nick Offerman. Its plot follows the formative moments in the life of Charles 'Chuck' Krantz, chronicled in reverse chronological order, from his death coinciding with the end of the universe to his childhood.",
+            "trailerUrl": "https://www.youtube.com/watch?v=dOyXdwXt8d4",
+            "Opens": "To Be Announced Soon"
+        },
+        {
+            "title": "Elio",
+            "genre": "Animation/Adventure",
+            "image": "./images/elio.jpg",
+            "description": "Elio is a young boy who finds himself transported to another dimension, where he must navigate a world filled with strange creatures and challenges. With the help of his new friends, Elio embarks on an epic quest to find his way back home.",
+            "trailerUrl": "https://www.youtube.com/watch?v=2w_K3CB8PuE",
+            "Opens": "To Be Announced Soon"
+        },
+        {
+            "title": "Smurfs",
+            "genre": "Animation-Fantasy",
+            "image": "./images/smurfs.jpg",
+            "description": "In this animated adventure, the Smurfs embark on a journey through the Forbidden Forest to find a mysterious lost village. Along the way, they encounter new friends and face off against the evil wizard Gargamel. With stunning visuals and a heartwarming story, Smurfs: The Lost Village is a delightful film for the whole family.",
+            "trailerUrl": "https://www.youtube.com/watch?v=s18jQqtGsMw",
+            "Opens": "Coming in July 2025"
+        },
+        {
+            "title": "We Were Dangerous",
+            "genre": "Drama",
+            "image": "./images/we_were_dangerous.jpg",
+            "description": "In 1954, Māori teenage girl Nellie is sent by her family to Christchurch to live with a relative after her hometown's meatworks closes down. Unable to find her relative, Nellie befriends another female Māori teenager named Daisy, who has escaped several foster homes after experiencing abuse. After being arrested for shoplifting, the two girls are sent to the Te Motu School for Incorrigible and Delinquent Girls. The Matron, a devout Māori woman who had grown up in a Christian orphanage, attempts to reprogram the girls into subservient housewives and mothers. The Matron believes that the British brought Christianity to civilise the Māori people.",
+            "trailerUrl": "https://www.youtube.com/watch?v=9C1eFs3Avu0",
+            "Opens": "To Be Announced Soon"
+        },
+        {
+            "title": "Sorry, Baby",
+            "genre": "Black Comedy Drama",
+            "image": "./images/sorry_baby.jpg",
+            "description": "A 2025 American black comedy drama film written and directed by Eva Victor and produced by Barry Jenkins. Victor also has a starring role alongside Naomi Ackie and Lucas Hedges. A college professor tries to recover from a sexual assault",
+            "trailerUrl": "https://www.youtube.com/watch?v=Rc0jgWoZo9w",
+            "Opens": "To Be Announced Soon"
+        }
+    ]
+}
