@@ -3,11 +3,11 @@
   box-sizing: border-box;
 }
 
-section > p >a {
+section > p > a, section > article > p > a {
   text-decoration: none;
   color: inherit;
 }
-section > p > a:hover {
+section > p > a:hover, section > article > p > a:hover {
   color: goldenrod;
   font-weight: 500;
 }
@@ -23,7 +23,7 @@ body {
       display: flex;
       flex-direction: column;
       align-items: center;
-      justify-content: flex-start;
+      justify-content: center;
     }
 
     header {
@@ -64,6 +64,16 @@ body {
         4px 4px 8px #888,
         0 1px 0 #fff;
       transition: color 0.2s ease-in-out;
+    }
+
+    main {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: 90%;
+      margin: 0 auto;
+      gap: 5%;
     }
 
     footer {
@@ -116,7 +126,7 @@ body {
       justify-content: space-around;
       border-radius: 5px;
       margin: 20px;
-      width: 100%;
+      width: fit-content;
     }
 
     footer > a > img {
@@ -137,7 +147,7 @@ body {
     .movie-list {
       display: grid;
       /* grid-template-columns: repeat(3, 1fr); */
-      gap: 20px;
+      gap: 5px;
       flex-direction: row;
       align-items: center;
       justify-content: space-around;
@@ -149,6 +159,7 @@ body {
       justify-content: center;
     }
 
+    
     .movie-list > li {
       background-color: #444;
       color: white;
@@ -159,17 +170,19 @@ body {
       transition: transform 0.2s;
       margin: 20px;
       height: 100%;
+      width: min-content;
     }
     .movie-list > li > img {
       width: 100%;
       height: auto;
       border-radius: 5px;
     }
-
+    
     .movie-list > li:hover {
       transform: scale(1.05);
+      background-color: #555;
     }
-
+    
     .movie-list > li > a {
       text-decoration: none;
       color: black;
@@ -182,7 +195,7 @@ body {
       text-align: center;
       width: 60%;
     }
-
+    
     .movie-list > li > a:hover {
       background-color: gray;
       color: white;
@@ -192,17 +205,17 @@ body {
       margin: 10px 0;
       font-size: 1.2em;
     }
-
+    
     .movie-list > li > p {
       overflow: hidden;
       white-space: nowrap;
       text-overflow: ellipsis;
       max-width: 40ch;
       font-size: small;
-
-      }
-
-      .movie-list > li > p:hover {
+      
+    }
+    
+    .movie-list > li > p:hover {
         cursor:progress;
         white-space: normal;
         background: rgba(0,0,0,0.97);
@@ -216,23 +229,46 @@ body {
         transition-property:all;
         transition-duration: 1s;
         transition-timing-function: ease-in-out;
-    }
-
-    h6 {
-      font-size: 0.8em;
+      }
+      
+      h6 {
+        font-size: 0.8em;
       margin-top: 0px;
     }
 
-    #ticket-rentals {
+    .ticket-rentals {
       display: flex;
       flex-direction: row;
       justify-content: space-between;
       gap: 10px;
       align-items: stretch;
     }
-    #ticket-rentals > article {
+    .ticket-rentals > article {
       width: 100%;
       background-color: #444;
       padding: 20px;
       border-radius: 5px;
+    }
+    @media (max-width: 768px) {
+      main {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }
+   
+      .movie-list {
+        grid-template-columns: 1fr;
+        width: 90%;
+        margin: 0 auto;
+        justify-content: center;
+        align-items: center;
+      }
+      .movie-list > li:hover {
+      transform: scale(1);
+      }
+      .ticket-rentals {
+        display: flex;
+        flex-direction: column;
+      }
+
     }
