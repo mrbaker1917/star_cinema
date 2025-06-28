@@ -53,7 +53,6 @@ body {
       margin-left: 0.3em;
       vertical-align: middle;
       filter: drop-shadow(1px 1px 2px #222);
-      margin: 0;
     }
 
     header > h1 > span:hover {
@@ -125,7 +124,7 @@ body {
       flex-direction: column;
       justify-content: space-around;
       border-radius: 5px;
-      margin: 20px;
+      /* margin: 20px; */
       width: fit-content;
     }
 
@@ -146,13 +145,12 @@ body {
 
     .movie-list {
       display: grid;
-      /* grid-template-columns: repeat(3, 1fr); */
       gap: 5px;
       flex-direction: row;
       align-items: center;
       justify-content: space-around;
       padding: 10px;
-      margin: 0 auto;
+      margin: 0;
       max-width: 1200px;
       width: 100%;
       grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -168,7 +166,6 @@ body {
       text-align: center;
       list-style: none;
       transition: transform 0.2s;
-      /* margin: 20px; */
       height: 100%;
       width: 100%;
     }
@@ -254,12 +251,13 @@ body {
         flex-direction: column;
         align-items: center;
         justify-content: center;
+        width: 100vh;
       }
    
       .movie-list {
         grid-template-columns: 1fr;
-        width: 90%;
-        margin: 0 auto;
+        width: 100%;
+        margin: 0;
         justify-content: center;
         align-items: center;
       }
@@ -270,5 +268,11 @@ body {
         display: flex;
         flex-direction: column;
       }
-
+nav > ul {
+      list-style: none;
+      padding: 5px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
     }
