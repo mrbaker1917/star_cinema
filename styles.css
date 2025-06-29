@@ -124,8 +124,12 @@ body {
       flex-direction: column;
       justify-content: space-around;
       border-radius: 5px;
-      /* margin: 20px; */
+      margin: 20px;
       width: fit-content;
+    }
+
+    section > p {
+      margin-bottom: 10px;;
     }
 
     footer > a > img {
@@ -170,7 +174,7 @@ body {
       width: 100%;
     }
     .movie-list > li > img {
-      width: 100%;
+      width: 300px;
       height: auto;
       border-radius: 5px;
     }
