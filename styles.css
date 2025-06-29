@@ -124,7 +124,7 @@ body {
       flex-direction: column;
       justify-content: space-around;
       border-radius: 5px;
-      /* margin: 20px; */
+      margin: 20px;
       width: fit-content;
     }
 
@@ -268,11 +268,14 @@ body {
         display: flex;
         flex-direction: column;
       }
-nav > ul {
-      list-style: none;
-      padding: 5px;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-    }
-    }
+      nav > ul {
+            list-style: none;
+            padding: 5px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+      }
+      section {
+        margin: 0 10px;
+      }
+  }
