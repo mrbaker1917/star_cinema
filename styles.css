@@ -160,6 +160,28 @@ body {
       grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
       justify-content: center;
     }
+    .event-list {
+      display: flex;
+      gap: 5px;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-around;
+      padding: 10px;
+      margin: 0;
+      max-width: 1200px;
+    }
+
+    .event-list > li {
+      background-color: #444;
+      color: white;
+      padding: 15px;
+      border-radius: 5px;
+      text-align: center;
+      list-style: none;
+      transition: transform 0.2s;
+      height: 100%;
+      max-width: 90%;
+    }
 
     
     .movie-list > li {
@@ -173,6 +195,12 @@ body {
       height: 100%;
       width: 100%;
     }
+    .event-list > li > img {
+      width: 90%;
+      height: 300px;
+    }
+
+    
     .movie-list > li > img {
       width: 300px;
       height: auto;

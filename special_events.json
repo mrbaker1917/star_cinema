@@ -1,8 +1,8 @@
 {
-    "specials": [
+    "events": [
         {
-            "title": "I,ŚETEṈ E TŦE ĆESE ŚX̱ENÁṈs TEṈEW̱ WALKING IN TWO WORLDS",
-            "image": "./images/walking_in_two_worlds.jpg",
+            "title": "I,ŚETEṈ E TŦE ĆESE ŚX̱ENÁṈs TEṈEW̱: WALKING IN TWO WORLDS",
+            "image": "./images/walking_in_two_worlds.gif",
             "time": ["Sat, Jun 28 @ 7:30PM", "Sun, Jun 29 @ 7:30PM"],
             "description": "A documentary film about the 50+ year history of the WSÁNEĆ School Board (formerly the Saanich Indian School Board) near Brentwood Bay."
         },
@@ -14,7 +14,7 @@
         },
         {
             "title": "2025 – 2026 MET OPERA SEASON",
-            "image": "./images/met_opera.jpg",
+            "image": "./images/metopera.gif",
             "time": ["La Sonnambula (Oct 18, 2025)","La Bohème (Nov 8, 2025)", "Arabella (Nov 22, 2025)", "Andrea Chénier (De 13, 2025)", "I Puritani (Jan 10, 2026)", "Tristan und Isolde (Mar 21, 2026)", "Eugene Onegin (May 2, 2026)", "El Último Sueño de Frida y Diego (May 30, 2026)"],
             "description": "The Met’s award-winning series of live movie theater transmissions returns in October with an extraordinary lineup, including exciting company premieres, new productions, and classic repertory favorites."
         }
