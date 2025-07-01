@@ -163,6 +163,24 @@ body {
       text-shadow: 1px 1px 2px #222;
     }
 
+    .back-to-top {
+      text-decoration: none;
+      color: goldenrod;
+      font-weight: 500;
+      display: inline-block;
+      transition: color 0.2s ease-in-out;
+      background-color: whitesmoke;
+      padding: 5px 10px;
+      border-radius: 5px;
+    }
+
+    .back-to-top:hover {
+      color: white;
+      background-color: goldenrod;
+      font-weight: 700;
+      transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out;
+    }
+
     .movie-list {
       display: grid;
       gap: 5px;
