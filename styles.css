@@ -381,8 +381,18 @@ body {
             list-style: none;
             padding: 5px;
             display: flex;
-            flex-direction: column;
+            flex-direction: row;
             justify-content: center;
+            margin: 5px;
+      }
+
+      nav > ul > li {
+        margin-left: 5px;
+        background-color: whitesmoke;
+        padding: 5px 10px;
+        border-radius: 5px;
+        color: black;
+        text-align: center;
       }
       section {
         margin: 5px;
