@@ -37,7 +37,7 @@ body {
       justify-content: space-between;
       border-radius: 5px;
       margin-top: 10px;
-      background: url('./images/Starfish-icon.png');
+      /* background: url('./images/Starfish-icon.png'); */
       background-position:80% 30%;
       background-size:100px;
       background-repeat: no-repeat;
@@ -71,7 +71,7 @@ body {
       align-items: center;
       justify-content: center;
       width: 90%;
-      margin: 0 auto;
+      /* margin: 0 auto; */
       gap: 5%;
     }
 
@@ -84,7 +84,7 @@ body {
       align-items: center;
       justify-content: center;
       border-radius: 5px;
-      min-width: 500px;
+      min-width: 50vw;;
     }
     
     nav > ul {
@@ -284,7 +284,20 @@ body {
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        width: 100vh;
+      }
+
+      header {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 90vw;
+      }
+
+      footer {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 90vw;
       }
    
       .movie-list {
@@ -297,9 +310,28 @@ body {
       .movie-list > li:hover {
       transform: scale(1);
       }
+
+      .event-list {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        max-width: 90vw;
+      }
+      .event-list > li {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        max-width: 90%;
+      }
+      .event-list > li > img {
+        width: 80vw;
+        height: auto;
+      }
       .ticket-rentals {
         display: flex;
         flex-direction: column;
+        max-width: 90vw;
       }
       nav > ul {
             list-style: none;
