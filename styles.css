@@ -379,17 +379,17 @@ body {
       }
       nav > ul {
             list-style: none;
-            padding: 5px;
+            padding: 2px;
             display: flex;
             flex-direction: row;
             justify-content: center;
-            margin: 5px;
+            margin: 2px;
       }
 
       nav > ul > li {
         margin-left: 5px;
         background-color: whitesmoke;
-        padding: 5px 10px;
+        padding: 5px 5px;
         border-radius: 5px;
         color: black;
         text-align: center;
