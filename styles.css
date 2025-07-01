@@ -196,8 +196,8 @@ body {
       width: 100%;
     }
     .event-list > li > img {
-      width: 90%;
-      height: 300px;
+      max-width: 90%;
+      height: 90%;
       border-radius: 5px;
     }
 
