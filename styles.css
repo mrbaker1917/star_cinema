@@ -37,7 +37,7 @@ body {
       justify-content: space-between;
       border-radius: 5px;
       margin-top: 10px;
-      /* background: url('./images/Starfish-icon.png'); */
+      background: url('./images/Starfish-icon.png');
       background-position:80% 30%;
       background-size:100px;
       background-repeat: no-repeat;
@@ -341,6 +341,6 @@ body {
             justify-content: center;
       }
       section {
-        margin: 0 10px;
+        margin: 5px;
       }
   }
