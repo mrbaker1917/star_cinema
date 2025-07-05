@@ -453,6 +453,8 @@ body {
         border-radius: 5px;
         color: black;
         text-align: center;
+        display: flex;
+        align-items: center;
       }
       section {
         margin: 5px;
