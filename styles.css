@@ -259,7 +259,7 @@ body {
       background-color: #555;
     }
     
-    .movie-list > li > a {
+    .movie-list > li > a:link {
       text-decoration: none;
       color: black;
       background-color: whitesmoke;
@@ -272,7 +272,7 @@ body {
       width: 60%;
     }
     
-    .movie-list > li > a:hover {
+    .movie-list > li > a:hover, .movie-list > li > a:focus {
       background-color: gray;
       color: white;
     }
@@ -360,7 +360,7 @@ body {
       width: 100%;
     }
 
-    #contact-info > p > a {
+    #contact-info > p > a:link {
       color: goldenrod;
       text-decoration: none;
       margin-bottom: 10px;
