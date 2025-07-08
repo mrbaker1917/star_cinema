@@ -36,7 +36,10 @@ body {
       justify-content: space-between;
       border-radius: 5px;
       margin-top: 10px;
+      background-color: rgba(245, 245, 245, 0.25); /* whitesmoke with 50% opacity */
+
     }
+
 
     header > div {
       display: flex;
@@ -56,6 +59,7 @@ body {
       vertical-align: middle;
       filter: drop-shadow(1px 1px 2px #222);
       display: inline;
+      opacity: 1;
     }
 
     header > div > h1 > span:hover {
@@ -385,7 +389,7 @@ body {
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        width: 80vw;
+        width: 90vw;
         background-image: url("./images/Starfish-icon.png");
         background-size: cover;
         background-size: 40%;
