@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', () => {
           <h2>${movie.title}</h2>
           <a href="${movie.trailerUrl}" target="_blank" title="Opens in new tab.">Watch the Trailer</a>
           <p>${movie.description}</p>
-          <h3>${movie.Opens}</h3>
+          <h4>${movie.Opens}</h4>
         `;
         list.appendChild(li);
       });

@@ -160,15 +160,23 @@ body {
     }
 
     h2 {
-      font-size: 1.5em;
-      margin: 10px 0;
+      font-size: 1.8em;
+      margin: 15px 0;
       text-align: center;
       color: goldenrod;
       text-shadow: 1px 1px 2px #222;
     }
 
     h3 {
-      font-size: 1.5em;
+      font-size: 1.6em;
+      margin: 10px 0;
+      text-align: center;
+      color: goldenrod;
+      text-shadow: 1px 1px 2px #222;
+    }
+
+    h4 {
+      font-size: 1.1em;
       margin: 10px 0;
       text-align: center;
       color: goldenrod;
