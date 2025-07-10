@@ -1,16 +1,10 @@
 {
     "events": [
         {
-            "title": "I,ŚETEṈ E TŦE ĆESE ŚX̱ENÁṈs TEṈEW̱: WALKING IN TWO WORLDS",
-            "image": "./images/walking_in_two_worlds.gif",
-            "time": ["Sat, Jun 28 @ 7:30PM", "Sun, Jun 29 @ 7:30PM"],
-            "description": "A documentary film about the 50+ year history of the WSÁNEĆ School Board (formerly the Saanich Indian School Board) near Brentwood Bay."
-        },
-        {
             "title": "2025 MAASTRICHT CONCERT: ANDRE RIEU: WALTZ THE NIGHT AWAY",
             "image": "./images/andre_rieu.jpg",
             "time": ["Saturday, September 6th @ 11am", "Monday, September 8th @ 1pm"],
-            "description": "Join us for a spectacular concert featuring the renowned violinist Andre Rieu, as he performs timeless waltzes and classical favorites."
+            "description": "Join us for a spectacular concert featuring the renowned violinist Andre Rieu, as he performs timeless waltzes and classical favorites. Tickets: $25, Running time: 3hrs"
         },
         {
             "title": "2025 – 2026 MET OPERA SEASON",

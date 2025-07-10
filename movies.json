@@ -1,50 +1,33 @@
 {
     "movies": [
-        {
-            "title": "The Phoenician Scheme",
-            "genre": "Action/Adventure",
-            "image": "./images/phoenician_scheme.jpg",
-            "description": "Wealthy businessman Zsa-zsa Korda appoints his only daughter Liesl, a nun, as sole heir to his estate. As Korda embarks on a new enterprise, they soon become the target of scheming tycoons, foreign terrorists and determined assassins. Directed by Wes Anderson, The Phoenician Scheme is a star-studded, is entertaining, humorous and visually striking with a surprisingly big heart.",
-            "rating": 4.5,
-            "releaseYear": 2025,
-            "trailerUrl": "https://www.youtube.com/watch?v=GEuMnPl2WI4",
+     {
+            "title": "Elio",
+            "genre": "Animation/Adventure",
+            "image": "./images/elio.jpg",
+            "description": "Elio is a young boy who finds himself transported to another dimension, where he must navigate a world filled with strange creatures and challenges. With the help of his new friends, Elio embarks on an epic quest to find his way back home.",
+            "trailerUrl": "https://www.youtube.com/watch?v=2w_K3CB8PuE",
             "showtimes": [
-                "Thursday, June 24 @ 2:20 & 7:15 PM",
-                "Friday, June 27 @ 2:30 PM",
-                "Monday, June 30 @ 7:30 PM",
-                "Tuesday, July 1 @ 2:30 & 7:30 PM"
+                "TUES, JUL 8 @ 1:45 & 6:45",
+                "WED, JUL 9 @ 1:45 & 6:45",
+                "THU, JUL 10 @ 1:45 & 6:45"
             ]
         },
         {
-            "title": "Materialists",
-            "genre": "Comedy",
-            "image": "./images/materialists.jpg",
-            "description": "Lucy, a young, ambitious New York City matchmaker, finds herself torn between Harry, the perfect match, and her imperfect ex John, who's still in love with her. Thoughtful and insightful, Materialists delivers a refreshing take on dating in the modern world. ",
-            "rating": 4.0,
+            "title": "SUPERMAN",
+            "genre": "Action/Adventure",
+            "image": "./images/superman.jpg",
+            "description": "Superman embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent. He faces challenges from Lex Luthor's war profiteering and a government-created clone named 'Ultraman'. Superman teams up with other heroes like Hawkgirl and Green Lantern to stop Ultraman, while Lois Lane and the Daily Planet staff work to expose Luthor's crimes. Starring David Corenswet, Rachel Brosnahan, and Nicholas Hoult, Superman is a triumph, summer movie entertainment at its best! Rated PG (violence, coarse lang) 2 hours 10 minutes.",
+            "rating": 4.5,
             "releaseYear": 2025,
-            "trailerUrl": "https://www.youtube.com/watch?v=4A_kmjtsJ7c",
+            "trailerUrl": "https://www.youtube.com/watch?v=Ox8ZLF6cGM0",
             "showtimes": [
-                "Friday, June 27 @ 7:30 PM",
-                "Saturday, June 28 @ 2:30 PM",
-                "Sunday, June 29 @ 2:30 PM"
-            ]      
-        },
-        {
-            "title": "How to train your dragon",
-            "genre": "Fantasy",
-            "image": "./images/dragon.jpg",
-            "description": "On the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup stands apart. Hiccup defies centuries of tradition when he befriends Toothless, a feared Night Fury dragon. Their unlikely bond reveals the true nature of dragons, challenging the very foundations of Viking society. This live-action reimagining of the animated classic How to Train Your Dragon is spectacular. A visually stunning, perfectly casted and emotionally engaging film that creates a thrilling movie theatre experience for the whole family.",
-            "rating": 4.8,
-            "releaseYear": 2025,
-            "trailerUrl": "https://www.youtube.com/watch?v=22w7z_lT6YM",
-            "showtimes": [
-                "Friday, June 27 @ 2:10 & 6:45 PM",
-                "Saturday, June 28 @ 2:10 & 6:45 PM",
-                "Sunday, June 29 @ 2:10 & 6:45 PM",
-                "Monday, June 30 @ 6:45 PM",
-                "Tuesday, July 1 @ 2:10 & 6:45 PM",
-                "Wednesday, July 2 @ 2:10 & 6:45 PM",
-                "Thursday, July 3 @ 2:10 & 6:45 PM"
+                "FRI, JUL 11 @ 7:30",
+                "SAT, JUL 12 @ 2:30 & 7:30",
+                "SUN, JUL 13 @ 2:30 & 7:30",
+                "MON, JUL 14 @ 7:30",
+                "TUES, JUL 15 @ 2:30 & 7:30",
+                "WED, JUL 16 @ 2:30 & 7:30",
+                "THU, JUL 17 @ 2:30 & 7:30"
             ]
         },
         {
@@ -55,26 +38,35 @@
             "releaseYear": 2025,
             "trailerUrl": "https://www.youtube.com/watch?v=8yh9BPUBbbQ",
             "showtimes": [
-                "FRI, JUN 27 @ 1:45 & 7:10 PM",
-                "SAT, JUN 28 @ 1:45 & 7:10 PM",
-                "SUN, JUN 29 @ 1:45 & 7:10 PM",
-                "MON, JUN 30 @ 1:45 & 7:10 PM",
-                "TUES, JUL 1 @ 1:45 & 7:10 PM",
-                "WED, JUL 2 @ 1:45 & 7:10 PM",
-                "THU, JUL 3 @ 1:45 & 7:10 PM"
+                "WED, JUL 9 @ 2:10 & 7:10",
+                "THU, JUL 10 @ 2:10 & 7:10",
+                "FRI, JUL 11 @ 7:10",
+                "SAT, JUL 12 @ 2:10 & 7:10",
+                "SUN, JUL 13 @ 2:10 & 7:10",
+                "MON, JUL 14 @ 7:10",
+                "TUES, JUL 15 @ 2:10 & 7:10",
+                "WED, JUL 16 @ 2:10 & 7:10",
+                "THU, JUL 17 @ 2:10 & 7:10"
             ]
         },
         {
             "title": "Jurassic World: Rebirth",
             "genre": "Horror/Science Fiction",
             "image": "./images/jurassic_world.jpg",
-            "description": "**Opens July 2 - plays for at least 2 weeks** Five years after the events of Jurassic World Dominion, an expedition braves isolated equatorial regions to extract DNA from three massive prehistoric creatures for a groundbreaking medical breakthrough. Jurassic World Rebirth is a must-see big-screen adventure that captures the nostalgic spirit of Jurassic Park filled with breathtaking thrills and a terrific cast that includes Scarlett Johansson, Jonathan Bailey, and Mahershala Ali.",
+            "description": "Five years after the events of Jurassic World Dominion, an expedition braves isolated equatorial regions to extract DNA from three massive prehistoric creatures for a groundbreaking medical breakthrough. Jurassic World Rebirth is a must-see big-screen adventure that captures the nostalgic spirit of Jurassic Park filled with breathtaking thrills and a terrific cast that includes Scarlett Johansson, Jonathan Bailey, and Mahershala Ali.",
             "rating": "PG",
             "releaseYear": 2025,
             "trailerUrl": "https://www.youtube.com/watch?v=jan5CFWs9ic",
             "showtimes": [
-                "Wednesday, July 2 @ 2:30 & 7:30 PM",
-                "Thursday, July 3 @ 2:30 & 7:30 PM"
+                "WED, JUL 9 @ 2:30 & 7:30",
+                "THU, JUL 10 @ 2:30 & 7:30",
+                "FRI, JUL 11 @ 7:10",
+                "SAT, JUL 12 @ 2:10 & 7:10",
+                "SUN, JUL 13 @ 2:10 & 7:10",
+                "MON, JUL 14 @ 7:10",
+                "TUES, JUL 15 @ 2:10 & 7:10",
+                "WED, JUL 16 @ 2:10 & 7:10",
+                "THU, JUL 17 @ 2:10 & 7:10"
             ]
         }
     ]

@@ -8,14 +8,7 @@
             "trailerUrl": "https://www.youtube.com/watch?v=dOyXdwXt8d4",
             "Opens": "To Be Announced Soon"
         },
-        {
-            "title": "Elio",
-            "genre": "Animation/Adventure",
-            "image": "./images/elio.jpg",
-            "description": "Elio is a young boy who finds himself transported to another dimension, where he must navigate a world filled with strange creatures and challenges. With the help of his new friends, Elio embarks on an epic quest to find his way back home.",
-            "trailerUrl": "https://www.youtube.com/watch?v=2w_K3CB8PuE",
-            "Opens": "To Be Announced Soon"
-        },
+
         {
             "title": "Smurfs",
             "genre": "Animation-Fantasy",
@@ -38,6 +31,46 @@
             "image": "./images/sorry_baby.jpg",
             "description": "A 2025 American black comedy drama film written and directed by Eva Victor and produced by Barry Jenkins. Victor also has a starring role alongside Naomi Ackie and Lucas Hedges. A college professor tries to recover from a sexual assault",
             "trailerUrl": "https://www.youtube.com/watch?v=Rc0jgWoZo9w",
+            "Opens": "To Be Announced Soon"
+        },
+        {
+            "title": "The Naked Gun",
+            "genre": "Comedy",
+            "image": "./images/naked_gun.jpg",
+            "description": "A 2025 American comedy film directed by David Zucker, written by David Zucker, Jerry Zucker, and Jim Abrahams, and starring Leslie Nielsen. It is a remake of the 1988 film of the same name, which was itself a remake of the 1982 film Police Squad! The film follows Detective Frank Drebin as he investigates a series of murders in Los Angeles.",
+            "trailerUrl": "https://www.youtube.com/watch?v=uLguU7WLreA",
+            "Opens": "To Be Announced Soon"
+        },
+        {
+            "title": "Freakier Friday",
+            "genre": "Comedy-Fantasy",
+            "image": "./images/freakier_friday.jpg",
+            "description": "A 2025 American comedy-fantasy film directed by Anne Fletcher and starring Lindsay Lohan and Jamie Lee Curtis. It is a remake of the 2003 film Freaky Friday, which was itself a remake of the 1976 film of the same name. The film follows a mother and daughter who magically swap bodies and must work together to fix their lives.",
+            "trailerUrl": "https://www.youtube.com/watch?v=IyJzhtJEtoU",
+            "Opens": "To Be Announced Soon"
+        },
+        {
+            "title": "The Roses",
+            "genre": "Romantic Comedy",
+            "image": "./images/roses.jpg",
+            "description": "Life seems easy for picture-perfect couple Ivy (Olivia Colman) and Theo (Benedict Cumberbatch): successful careers, a loving marriage, great kids. But beneath the façade of their supposed ideal life, a storm is brewing – as Theo’s career nosedives while Ivy’s own ambitions take off, a tinderbox of fierce competition and hidden resentment ignites. The Roses is a reimagining of the 1989 classic film The War of the Roses, based on the novel by Warren Adler.",
+            "trailerUrl": "https://www.youtube.com/watch?v=XkgMaS5gbaA",
+            "Opens": "To Be Announced Soon"
+        },
+        {
+            "title": "Downton Abbey: The Grande Finale",
+            "genre": "Historical Drama",
+            "image": "./images/downton_abbey.jpg",
+            "description": "A 2025 British historical drama film directed by Simon Curtis and written by Julian Fellowes. It is a sequel to the 2019 film Downton Abbey and the sixth and final installment in the Downton Abbey franchise. The film follows the Crawley family as they travel to France to visit a villa left to them by the late Lady Violet Crawley.",
+            "trailerUrl": "https://www.youtube.com/watch?v=hFzH1AWxgIM",
+            "Opens": "To Be Announced Soon"
+        },
+        {
+            "title": "A Big Bold Beautiful Journey",
+            "genre": "Adventure",
+            "image": "./images/big_bold_journey.jpg",
+            "description": "What if you could open a doorway and walk through it to re-live a defining moment from your past? Sarah (Margot Robbie) and David (Colin Farrell) are single strangers who meet at a mutual friend’s wedding and soon, through a surprising twist of fate, find themselves on A Big Bold Beautiful Journey – a funny, fantastical, sweeping adventure together where they get to re-live important moments from their respective pasts, illuminating how they got to where they are in the present…and possibly getting a chance to alter their futures.",
+            "trailerUrl": "https://www.youtube.com/watch?v=7t9cPtA9St0",
             "Opens": "To Be Announced Soon"
         }
     ]
