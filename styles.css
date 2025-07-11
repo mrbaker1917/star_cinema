@@ -145,7 +145,7 @@ body {
       justify-content: space-around;
       border-radius: 5px;
       margin: 20px;
-      width: fit-content;
+      width: 1200px;
     }
 
     section > p {
@@ -477,5 +477,6 @@ body {
       }
       section {
         margin: 5px;
+        width:fit-content;
       }
   }
