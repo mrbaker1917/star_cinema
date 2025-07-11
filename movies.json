@@ -1,17 +1,5 @@
 {
     "movies": [
-     {
-            "title": "Elio",
-            "genre": "Animation/Adventure",
-            "image": "./images/elio.jpg",
-            "description": "Elio is a young boy who finds himself transported to another dimension, where he must navigate a world filled with strange creatures and challenges. With the help of his new friends, Elio embarks on an epic quest to find his way back home.",
-            "trailerUrl": "https://www.youtube.com/watch?v=2w_K3CB8PuE",
-            "showtimes": [
-                "TUES, JUL 8 @ 1:45 & 6:45",
-                "WED, JUL 9 @ 1:45 & 6:45",
-                "THU, JUL 10 @ 1:45 & 6:45"
-            ]
-        },
         {
             "title": "SUPERMAN",
             "genre": "Action/Adventure",
