@@ -9,13 +9,9 @@
             "releaseYear": 2025,
             "trailerUrl": "https://www.youtube.com/watch?v=Ox8ZLF6cGM0",
             "showtimes": [
-                "FRI, JUL 11 @ 7:30",
-                "SAT, JUL 12 @ 2:30 & 7:30",
-                "SUN, JUL 13 @ 2:30 & 7:30",
-                "MON, JUL 14 @ 7:30",
-                "TUES, JUL 15 @ 2:30 & 7:30",
-                "WED, JUL 16 @ 2:30 & 7:30",
-                "THU, JUL 17 @ 2:30 & 7:30"
+                "TUES, JUL 22 @ 2:10 & 7:30",
+                "WED, JUL 23 @ 2:10 & 7:30",
+                "THU, JUL 24 @ 2:10 & 7:30"
             ]
         },
         {
@@ -26,35 +22,35 @@
             "releaseYear": 2025,
             "trailerUrl": "https://www.youtube.com/watch?v=8yh9BPUBbbQ",
             "showtimes": [
-                "WED, JUL 9 @ 2:10 & 7:10",
-                "THU, JUL 10 @ 2:10 & 7:10",
-                "FRI, JUL 11 @ 7:10",
-                "SAT, JUL 12 @ 2:10 & 7:10",
-                "SUN, JUL 13 @ 2:10 & 7:10",
-                "MON, JUL 14 @ 7:10",
-                "TUES, JUL 15 @ 2:10 & 7:10",
-                "WED, JUL 16 @ 2:10 & 7:10",
-                "THU, JUL 17 @ 2:10 & 7:10"
+                "TUES, JUL 22 @ 1:45",
+                "WED, JUL 23 @ 6:45",
+                "THU, JUL 24 @ 6:45"
             ]
         },
-        {
-            "title": "Jurassic World: Rebirth",
-            "genre": "Horror/Science Fiction",
-            "image": "./images/jurassic_world.jpg",
-            "description": "Five years after the events of Jurassic World Dominion, an expedition braves isolated equatorial regions to extract DNA from three massive prehistoric creatures for a groundbreaking medical breakthrough. Jurassic World Rebirth is a must-see big-screen adventure that captures the nostalgic spirit of Jurassic Park filled with breathtaking thrills and a terrific cast that includes Scarlett Johansson, Jonathan Bailey, and Mahershala Ali.",
-            "rating": "PG",
+              {
+            "title": "Smurfs",
+            "genre": "Animation-Fantasy",
+            "image": "./images/smurfs.jpg",
             "releaseYear": 2025,
-            "trailerUrl": "https://www.youtube.com/watch?v=jan5CFWs9ic",
+            "description": "In this animated adventure, the Smurfs embark on a journey through the Forbidden Forest to find a mysterious lost village. Along the way, they encounter new friends and face off against the evil wizard Gargamel. With stunning visuals and a heartwarming story, Smurfs: The Lost Village is a delightful film for the whole family.",
+            "trailerUrl": "https://www.youtube.com/watch?v=s18jQqtGsMw",
             "showtimes": [
-                "WED, JUL 9 @ 2:30 & 7:30",
-                "THU, JUL 10 @ 2:30 & 7:30",
-                "FRI, JUL 11 @ 7:10",
-                "SAT, JUL 12 @ 2:10 & 7:10",
-                "SUN, JUL 13 @ 2:10 & 7:10",
-                "MON, JUL 14 @ 7:10",
-                "TUES, JUL 15 @ 2:10 & 7:10",
-                "WED, JUL 16 @ 2:10 & 7:10",
-                "THU, JUL 17 @ 2:10 & 7:10"
+                "TUES, JUL 22 @ 2:30 & 7:10",
+                "WED, JUL 23 @ 2:30 & 7:10",
+                "THU, JUL 24 @ 2:30 & 7:10"
+            ]
+        },
+                {
+            "title": "The Life of Chuck",
+            "genre": "Fantasy-Drama",
+            "image": "./images/life_chuck.jpg",
+            "releaseYear": 2025,
+            "description": "Written and directed by Mike Flanagan, based on the novella of the same name by Stephen King, published in his 2020 compilation If It Bleeds. The film stars Tom Hiddleston, Chiwetel Ejiofor, Karen Gillan, Mia Sara, Carl Lumbly, Benjamin Pajak, Jacob Tremblay, and Mark Hamill, with narration by Nick Offerman. Its plot follows the formative moments in the life of Charles 'Chuck' Krantz, chronicled in reverse chronological order, from his death coinciding with the end of the universe to his childhood.",
+            "trailerUrl": "https://www.youtube.com/watch?v=dOyXdwXt8d4",
+            "showtimes": [
+                "TUES, JUL 22 @ 6:45",
+                "WED, JUL 23 @ 1:45",
+                "THU, JUL 24 @ 1:45"
             ]
         }
     ]

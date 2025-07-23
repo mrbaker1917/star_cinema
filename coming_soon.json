@@ -1,23 +1,6 @@
 {
     "movies": [
         {
-            "title": "The Life of Chuck",
-            "genre": "Fantasy-Drama",
-            "image": "./images/life_chuck.jpg",
-            "description": "Written and directed by Mike Flanagan, based on the novella of the same name by Stephen King, published in his 2020 compilation If It Bleeds. The film stars Tom Hiddleston, Chiwetel Ejiofor, Karen Gillan, Mia Sara, Carl Lumbly, Benjamin Pajak, Jacob Tremblay, and Mark Hamill, with narration by Nick Offerman. Its plot follows the formative moments in the life of Charles 'Chuck' Krantz, chronicled in reverse chronological order, from his death coinciding with the end of the universe to his childhood.",
-            "trailerUrl": "https://www.youtube.com/watch?v=dOyXdwXt8d4",
-            "Opens": "To Be Announced Soon"
-        },
-
-        {
-            "title": "Smurfs",
-            "genre": "Animation-Fantasy",
-            "image": "./images/smurfs.jpg",
-            "description": "In this animated adventure, the Smurfs embark on a journey through the Forbidden Forest to find a mysterious lost village. Along the way, they encounter new friends and face off against the evil wizard Gargamel. With stunning visuals and a heartwarming story, Smurfs: The Lost Village is a delightful film for the whole family.",
-            "trailerUrl": "https://www.youtube.com/watch?v=s18jQqtGsMw",
-            "Opens": "Coming in July 2025"
-        },
-        {
             "title": "We Were Dangerous",
             "genre": "Drama",
             "image": "./images/we_were_dangerous.jpg",
